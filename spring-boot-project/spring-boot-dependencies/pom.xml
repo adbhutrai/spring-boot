@@ -59,7 +59,7 @@
 		<hamcrest.version>1.3</hamcrest.version>
 		<hazelcast.version>3.9.2</hazelcast.version>
 		<hazelcast-hibernate5.version>1.2.3</hazelcast-hibernate5.version>
-		<hibernate.version>5.2.13.Final</hibernate.version>
+		<hibernate.version>5.3.38.Final</hibernate.version>
 		<hibernate-validator.version>6.0.7.Final</hibernate-validator.version>
 		<hikaricp.version>2.7.7</hikaricp.version>
 		<hsqldb.version>2.4.0</hsqldb.version>
@@ -109,7 +109,7 @@
 		<lettuce.version>5.0.1.RELEASE</lettuce.version>
 		<liquibase.version>3.5.4</liquibase.version>
 		<log4j2.version>2.10.0</log4j2.version>
-		<logback.version>1.2.3</logback.version>
+		<logback.version>1.5.25</logback.version>
 		<lombok.version>1.16.20</lombok.version>
 		<mariadb.version>2.2.1</mariadb.version>
 		<micrometer.version>1.0.0-SNAPSHOT</micrometer.version>
@@ -165,8 +165,8 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.28</tomcat.version>
-		<undertow.version>1.4.22.Final</undertow.version>
+		<tomcat.version>9.0.98</tomcat.version>
+		<undertow.version>2.3.21.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.35</webjars-locator-core.version>
